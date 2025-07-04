@@ -9,7 +9,7 @@ This repository contains my labs, learning materials, and capstone project for t
 
 ---
 
-## 🎓 About the Course:
+## 🎓 About the Certification:
 The **Google Advanced Data Analytics Certificate** includes **seven hands-on courses** designed to prepare learners for:
 - 🚀 Advanced roles in Data Analytics
 - 🧠 Entry-level roles in Data Science

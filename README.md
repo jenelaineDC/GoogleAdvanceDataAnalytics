@@ -5,8 +5,7 @@
 ---
 
 ## 📁 About the Repository:
-This repository contains my labs, learning materials, and capstone project for the Google Advanced Data Analytics course.  
-Each folder is organized by course module and includes all certificates and requirements necessary to pass.
+This repository contains my labs, learning materials, and capstone project for the Google Advanced Data Analytics course. Each folder is organized by course module and includes all certificates and requirements necessary to pass.
 
 ---
 

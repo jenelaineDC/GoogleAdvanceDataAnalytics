@@ -20,13 +20,13 @@ Learners develop skills in:
 - 🤖 Implementing machine learning techniques
 
 📚 Included Courses:
-- 🧩 Foundations of Data Science  
-- 🐍 Get Started with Python  
-- 🔍 Go Beyond Numbers: Translate Data into Insights  
-- 📐 The Power of Statistics  
-- 📈 Regression Analysis: Simplify Complex Data Relationships  
-- ⚙️ The Nuts and Bolts of Machine Learning  
-- 🏁 Google Advanced Data Analytics Capstone  
+- 🧩 [Foundations of Data Science](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/Foundations%20of%20Data%20Science)  
+- 🐍 [Get Started with Python](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/Get%20Started%20with%20Python)  
+- 🔍 [Go Beyond Numbers: Translate Data into Insights](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/Go%20Beyond%20Numbers%3A%20Translate%20Data%20into%20Insights)  
+- 📐 [The Power of Statistics](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/The%20Power%20of%20Statistics)  
+- 📈 [Regression Analysis: Simplify Complex Data Relationships](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/Regression%20Analysis)  
+- ⚙️ [The Nuts and Bolts of Machine Learning](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning)  
+- 🏁 [Google Advanced Data Analytics Capstone](https://github.com/jenelaineDC/GoogleAdvanceDataAnalytics/tree/main/Capstone)  
 
 ---
 
